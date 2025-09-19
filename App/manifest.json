@@ -1,0 +1,13 @@
+{
+  "background_color": "#000000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Profit Loss Tracker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Profit Tracker",
+  "start_url": "./index.html",
+  "theme_color": "#7367f0",
+  "id": "com.profittracker",
+  "description": "A simple, premium-style app to calculate and store your product profit and loss with percentage."
+}
